@@ -208,3 +208,5 @@ __marimo__/
 
 __pycache__
 .DS_Store
+.idea/
+.idea
